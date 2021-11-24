@@ -10,6 +10,7 @@
 - Application developed using only Apple provided frameworks
 - This project follows the MVVM architectural pattern and features written in  pure SwiftUI.
 - Added wrapper of SwiftUI
+- No memory leaks
 
 
 ## Installation
@@ -36,3 +37,15 @@ iOS version 13.0+
 ### Additional
 Unit tests were written using XCTest to test the networking calls with URLSession, Coredata Mocking, ViewModel with morethan 80+ coverage.The app supports light/dark mode, landscape/portrait orientation and uses Dynamic Type.
 
+
+## Future Features and Improvements
+
+- CoreData Interactor can be more flexible
+- UI/UX can be more improve
+- Data resndring for Residence and Films
+- More flexible Repository to coordinate withNetwork layer
+- UITest cases
+- Coordinators to navigate controllers
+- Component based development 
+- Pull to referece and load more functionality
+- Notification to get local database refersh if any new planet added in server
