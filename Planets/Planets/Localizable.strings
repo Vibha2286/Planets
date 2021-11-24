@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Planets
+
+  Created by Vibha Mangrulkar on 2021/11/24.
+  
+*/
+
+"planets.screen.title" = "Planets";
+"planets.activity.indicator.title" = "Loading...";
